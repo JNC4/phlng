@@ -4,6 +4,10 @@ const nextConfig = {
   trailingSlash: true,
   images: {
     unoptimized: true
+  },
+  // Remove any API routes or server-side features
+  experimental: {
+    appDir: true
   }
 }
 
