@@ -1,0 +1,35 @@
+{
+  "name": "philosophical-network-graph",
+  "version": "1.0.0",
+  "description": "Interactive philosophical network graph for mapping ideas and their relationships",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.0",
+    "postcss": "^8.0.0",
+    "tailwindcss": "^3.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
+  },
+  "keywords": [
+    "philosophy",
+    "network",
+    "graph",
+    "visualization",
+    "ideas",
+    "knowledge"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
